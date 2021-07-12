@@ -3205,6 +3205,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
+		text-align: justify;
 	}
 
 		.wrapper > .inner {
